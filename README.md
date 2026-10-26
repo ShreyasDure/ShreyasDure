@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55" alt="OpenAI logo"><br><sub>OpenAI</sub></td>
+    <td align="center" width="110"><img src="https://img.icons8.com/ios-filled/100/A78BFA/chatgpt.png" width="55" height="55" alt="OpenAI logo"><br><sub>OpenAI</sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini" width="55" height="55" alt="Google Gemini logo"><br><sub>Gemini</sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/claude" width="55" height="55" alt="Anthropic Claude logo"><br><sub>Claude</sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/ollama/A78BFA" width="55" height="55" alt="Ollama logo"><br><sub>Ollama</sub></td>
@@ -117,7 +117,7 @@
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" height="55" alt="GitHub Actions logo"><br><sub>GitHub Actions</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase logo"><br><sub>Firebase</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud logo"><br><sub>Google Cloud</sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="55" height="55" alt="Amazon Web Services logo"><br><sub>AWS</sub></td>
+    <td align="center" width="110"><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="55" height="55" alt="Amazon Web Services logo"><br><sub>AWS</sub></td>
   </tr>
 </table>
 
@@ -152,53 +152,23 @@
 
 <h2>GitHub Analytics</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasDure&theme=tokyonight&hide_border=true&show_icons=true&title_color=A78BFA&icon_color=2563EB&rank_icon=github" width="49%" alt="GitHub stats card for ShreyasDure">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasDure&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=A78BFA" width="49%" alt="Top languages card for ShreyasDure">
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=ShreyasDure&theme=tokyonight&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="75%" alt="GitHub streak stats for ShreyasDure">
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>Contribution Activity</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyasDure&theme=tokyo-night&hide_border=true&area=true&line=7C3AED&point=A78BFA&color=A78BFA&area_color=2563EB" width="100%" alt="GitHub contribution activity graph for ShreyasDure">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShreyasDure&theme=tokyonight&hide_border=true&show_icons=true&title_color=A78BFA&icon_color=2563EB&rank_icon=github&card_width=467" width="100%" alt="GitHub stats card for ShreyasDure">
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasDure&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&title_color=A78BFA&card_width=467" width="100%" alt="Top languages card for ShreyasDure">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=ShreyasDure&theme=tokyonight&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&width=467" width="50%" alt="GitHub streak stats for ShreyasDure">
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
-
-<div align="center">
-
-<h2>A Thought to Build By</h2>
-
-</div>
-
-> Great software begins with curiosity and is shaped by patient, deliberate practice.
-
----
-
-<div align="center">
-
-<h2>BUILDING</h2>
-
-</div>
-
-```text
-╔══════════════════════════════════════════╗
-║                 BUILDING                 ║
-╠══════════════════════════════════════════╣
-║   Code  •  Learn  •  Test  •  Improve    ║
-║   Turning ideas into working software.   ║
-╚══════════════════════════════════════════╝
-```
 
 ---
 
